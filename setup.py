@@ -8,7 +8,4 @@ setup(
     author='HERO',
     license='MIT',
     packages=find_packages(),
-    entry_points="""
-    [console_scripts]
-    environment = environment.environment:main
-    """,)
+    ,)
