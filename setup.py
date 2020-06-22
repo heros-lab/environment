@@ -7,5 +7,4 @@ setup(
     description="My experiment environment for Proposed method with IRIP (2020.06)",
     author='HERO',
     license='MIT',
-    packages=find_packages(),
-    ,)
+    packages=find_packages())
